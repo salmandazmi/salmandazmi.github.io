@@ -6,7 +6,12 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
-<title>{{ page.title }} | {{site.name}}</title>
+{% if page.url == '/' %}
+  <title>{{site.name}}</title>
+{% else %}
+  <title>{{ page.title }} | {{site.name}}</title>
+{% endif %}
+
 
 {% seo %}
 
@@ -52,14 +57,14 @@
     <ul>
         <h3>Navigation</h3>
         <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/">Portfolio</a></li>
+        <li><a href="{{ site.baseurl }}/portofolio">Portofolio</a></li>
         <li><a target="_blank" href="https://github.com/salmandazmi"><i class="fab fa-github"></i> Github</a></li>
         <li><a target="_blank" href="https://www.instagram.com/salmanazmi.studio/"><i class="fab fa-instagram"></i> Studio</a></li>
         <li><a target="_blank" href="https://medium.com/@salmandazmi"><i class="fab fa-medium"></i> Medium</a></li>
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
-        <li><a href="{{ site.baseurl }}/authors">Contributors <span class="badge badge-primary">new</span></a></li>
-        <li><a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/">Get Memoirs</a></li>
-        <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+        <!-- <li><a href="{{ site.baseurl }}/about">About</a></li> -->
+        <!-- <li><a href="{{ site.baseurl }}/authors">Contributors <span class="badge badge-primary">new</span></a></li> -->
+        <!-- <li><a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/">Get Memoirs</a></li> -->
+        <!-- <li><a href="{{ site.baseurl }}/contact">Contact</a></li> -->
     </ul>
 </nav>
 
@@ -86,6 +91,11 @@
     {% if page.url == '/' %}
         <p class="sitetag">
             {{ site.description }}
+            <h5 style="font-weight: normal;">
+              I am a recent Business Intelligence Analysis Bootcamp graduate with core skills including SQL, BigQuery, and Google Data Studio.
+              I implemented data collection and processing using Python as well as qualitative analysis to gain strategic insights in previous research.
+              Hands-on project experience in NLP and Genetic Algorithm. Welcome to my portofolio page!
+            </h5>
         </p>
     {% endif %}
 

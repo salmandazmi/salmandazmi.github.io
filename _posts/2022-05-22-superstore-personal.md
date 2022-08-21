@@ -2,15 +2,16 @@
 layout: post
 title:  "Superstore Sales Dashboard (Personal)"
 author: salmandazmi
-categories: [ Bootcamp ]
+categories: [ Portofolio ]
 tags: [ Binar Academy ]
 image: assets/images/superstore-personal.png
+comments: false
 <!-- rating: 4.5 -->
 ---
 
-Superstore sales dashboard adalah proyek pengembangan dashboard untuk menganalisis performa penjualan perusahaan Superstore yang berfokus pada penyusunan business requirements document dan pembuatan dashboard. Proyek ini adalah bagian dari gold level project dari program bootcamp business intelligence analyst dari Binar Academy.
+*Superstore sales dashboard adalah proyek pengembangan dashboard untuk menganalisis performa penjualan perusahaan Superstore yang berfokus pada penyusunan business requirements document dan pembuatan dashboard. Proyek ini adalah bagian dari gold level project dari program bootcamp business intelligence analyst dari Binar Academy.*
 
-<!-- **Authors**: Salman Dziyaul Azmi -->
+**Authors**: Salman Azmi
 
 **Tech Stack**: SQL, Google BigQuery, Google Data Studio
 
@@ -21,9 +22,7 @@ Pertumbuhan laba yang dicapai Superstore dalam empat tahun terakhir cenderung st
 
 Sebagai salah satu fokus utama perusahaan ke depan, ketercapaian inisiatif bisnis ini sangat penting. Oleh karena itu, *dashboard* dibutuhkan untuk mengidentifikasi performa penjualan (termasuk laba dan *profit margin*) dengan cepat sehingga dapat direspons manajer regional maupun tim pemasaran dengan keputusan yang tepat.
 
-Selengkapnya dapat dilihat dalam Business Requirements Document berikut:
-
-[superstore-personal-brd.pdf]('superstore-personal-brd.pdf')
+Selengkapnya dapat dilihat dalam Business Requirements Document berikut: [`superstore-personal-brd.pdf`]('superstore-personal-brd.pdf')
 
 ## Data Collection
 
