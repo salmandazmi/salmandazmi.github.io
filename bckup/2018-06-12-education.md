@@ -25,11 +25,11 @@ Memoirs theme has Prism highlighter integrated. I will show you in this post a f
 ```css
 .highlight .c {
     color: #999988;
-    font-style: italic; 
+    font-style: italic;
 }
 .highlight .err {
     color: #a61717;
-    background-color: #e3d2d2; 
+    background-color: #e3d2d2;
 }
 ```
 
