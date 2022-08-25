@@ -4,7 +4,7 @@ title:  "Strategic Responses of Indonesian Companies to the COVID-19 Pandemic"
 author: salmandazmi
 categories: [ Portofolio ]
 tags: [ Tesis ]
-image: "https://images.unsplash.com/photo-1559925393-8be0ec4767c8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+image: assets/images/complex-aerial-view-city.jpg
 ---
 
 The COVID-19 pandemic creates many challenges for the sustainability of various companies, including Indonesian companies. Every company is affected in one way or another by this outbreak. Based on the content analysis of 225 selected news items from Indonesian online business news portal published from May to November 2020, this study analyzes various strategic responses of Indonesian companies to the COVID-19 pandemic. It also identifies the patterns of shifting between strategic responses that have occurred. These general strategic responses to the crisis include retrenchment, persevering, innovating, and exit (Wenzel et al., 2020). This study uses an automatic text summarization technique to assist the data analysis process.
@@ -48,3 +48,5 @@ First, Indonesian companies have varied approaches in implementing the three str
 Second, several patterns of strategic response shift pursued by Indonesian companies in dealing with the COVID-19 pandemic can be identified. The results showed that regardless of what initial response was implemented to deal with the COVID-19 pandemic crisis, in the end, the majority of these companies tend to shift to persevering. However, some companies choose other strategic responses with a much smaller proportion. The study also found a pattern supporting previous studies’ argument that retrenchment can be an important precursor of other responses. These findings can broaden current knowledge about the patterns of shifting between strategic responses to crisis in general.
 
 GitHub: [`indonesian-companies-responses-to-covid`](https://github.com/salmandazmi/indonesian-companies-responses-to-covid)
+
+Image: [`Freepik`](https://www.freepik.com/free-photo/complex-aerial-view-city_14481994.htm#query=jakarta%20landscape&position=9&from_view=search)

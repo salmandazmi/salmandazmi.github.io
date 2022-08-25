@@ -49,3 +49,5 @@ Tingkat kegagalan autentikasi yang tinggi dapat mengindikasikan bahwa pengguna s
 
 <!-- # Conclusion
 Sejumlah *metrics* yang diusulkan apabila digabungkan satu sama lain dapat memberikan gambaran kualitas dari -->
+
+Image: [rawpixel.com](https://www.freepik.com/free-photo/biometric-technology-background-with-fingerprint-scanning-system-virtual-screen-digital-remix_15606690.htm#query=biometric%20fingerprint&position=1&from_view=keyword)

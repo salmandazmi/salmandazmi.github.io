@@ -4,7 +4,7 @@ title:  "How to determine our next business partner?"
 author: salmandazmi
 categories: [ Portofolio ]
 tags: [ Binar Academy ]
-image: assets/images/9.jpg
+image: assets/images/two-businessmen-suits-shaking-hands.jpg
 ---
 
 Apabila anda memiliki akses terhadap seluruh data pengeluaran pelanggan, bagaimana anda menentukan perusahaan yang akan dijadikan *partner* bisnis?
@@ -56,3 +56,5 @@ Contohnya, berdasarkan gambar di atas, Company B merupakan perusahaan dengan spe
 
 # Conclusion
 Dari contoh yang telah dipaparkan, karakteristik perusahaan yang dapat dijadikan partner untuk partner card selanjutnya adalah Company B. Tingginya strategic importace perusahaan ini di kategori Grocery Stores menandakan bahwa Company B menilai kategori tersebut adalah lini bisnis yang penting dalam portofolionya, sejalan dengan perusahaan kita. Hal ini akan meningkatkan komitmen kedua perusahaan ketika bekerja sama. Di samping itu, pangsa pasar yang tinggi menunjukkan bahwa Company B adalah perusahaan yang sangat kompetitif di kategori tersebut. Di sisi lain, angka spending per customer yang tinggi menandakan peluang revenue kita semakin besar dan risiko beban perusahaan yang ditimbulkan dari penerbitan partner card untuk tiap pelanggannya dapat berkurang.
+
+Image: [yanalya](https://www.freepik.com/free-photo/closeup-view-handshake-two-businessmen-suits-shaking-hands_3954471.htm#query=business%20partner&position=2&from_view=search)
