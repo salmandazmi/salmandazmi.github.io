@@ -1,7 +1,7 @@
 ---
 layout: null
 title: Dashboard
-permalink: /dashboard
+permalink: /dashboard/household-ecosystem
 ---
 
 <html>
