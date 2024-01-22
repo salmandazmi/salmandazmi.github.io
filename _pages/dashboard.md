@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: null
 title: Dashboard
 permalink: /dashboard
 ---
