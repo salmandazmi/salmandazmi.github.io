@@ -236,7 +236,7 @@ function highlightFilter(filter) {
 
              #mynetwork {
                  width: 100%;
-                 height: 600px;
+                 height: 750px;
                  background-color: #ffffff;
                  border: 1px solid lightgray;
                  position: relative;
