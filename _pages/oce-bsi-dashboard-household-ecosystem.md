@@ -1,7 +1,7 @@
 ---
 layout: null
 title: Dashboard
-permalink: /dashboard/household-ecosystem
+permalink: /dashboard/oce-bsi-household-ecosystem
 ---
 
 <html>
