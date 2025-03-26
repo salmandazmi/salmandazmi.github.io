@@ -443,7 +443,7 @@ function highlightFilter(filter) {
                   // adding nodes and edges to the graph
                   data = {nodes: nodes, edges: edges};
 
-                  var options = {"nodes": {"borderWidth": 1, "borderWidthSelected": 2, "opacity": 100, "font": {"multi": "html", "strokeWidth": 5, "size": 14}, "size": 25}, "edges": {"arrows": {"middle": {"enabled": true, "scaleFactor": 0.5}}, "color": {"color": "#E8E8E8", "highlight": "#2E2E2E", "inherit": false, "opacity": 0.5}, "font": {"strokeWidth": 5}, "selfReferenceSize": 20, "selfReference": {"angle": 0.7853981633974483}, "smooth": {"forceDirection": "none"}}, "physics": {"barnesHut": {"springLength": 100}, "minVelocity": 0.75}};
+                  var options = {"nodes": {"borderWidth": 1, "borderWidthSelected": 2, "opacity": 100, "font": {"strokeWidth": 5, "size": 14}, "size": 25}, "edges": {"arrows": {"middle": {"enabled": true, "scaleFactor": 0.5}}, "color": {"color": "#E8E8E8", "highlight": "#2E2E2E", "inherit": false, "opacity": 0.5}, "font": {"strokeWidth": 5}, "selfReferenceSize": 20, "selfReference": {"angle": 0.7853981633974483}, "smooth": {"forceDirection": "none"}}, "physics": {"barnesHut": {"springLength": 100}, "minVelocity": 0.75}};
 
                   
 
