@@ -4,7 +4,6 @@ title: Dashboard
 permalink: /dashboard/oce-bsi-ecosystem-industry-jateng
 ---
 
-DIY - Industry Ecosystem_Master 251218 16.06.53.html
 <html>
     <head>
         <meta charset="utf-8">

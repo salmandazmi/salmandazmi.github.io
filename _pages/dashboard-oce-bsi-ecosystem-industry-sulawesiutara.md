@@ -4,7 +4,6 @@ title: Dashboard
 permalink: /dashboard/oce-bsi-ecosystem-industry-sulawesiutara
 ---
 
-Gorontalo - Industry Ecosystem_Master 251218 16.42.17.html
 <html>
     <head>
         <meta charset="utf-8">

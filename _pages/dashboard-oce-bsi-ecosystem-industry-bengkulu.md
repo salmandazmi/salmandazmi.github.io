@@ -4,7 +4,6 @@ title: Dashboard
 permalink: /dashboard/oce-bsi-ecosystem-industry-bengkulu
 ---
 
-Bengkulu - Industry Ecosystem_Master 251219 10.03.39.html
 <html>
     <head>
         <meta charset="utf-8">

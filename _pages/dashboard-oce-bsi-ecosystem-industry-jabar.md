@@ -4,7 +4,6 @@ title: Dashboard
 permalink: /dashboard/oce-bsi-ecosystem-industry-jabar
 ---
 
-Jabar - Industry Ecosystem_Master 251218 15.16.02.html
 <html>
     <head>
         <meta charset="utf-8">

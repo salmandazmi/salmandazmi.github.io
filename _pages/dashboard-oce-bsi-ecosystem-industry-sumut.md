@@ -4,7 +4,6 @@ title: Dashboard
 permalink: /dashboard/oce-bsi-ecosystem-industry-sumut
 ---
 
-Sumut - Industry Ecosystem_Master 251218 15.57.33.html
 <html>
     <head>
         <meta charset="utf-8">
